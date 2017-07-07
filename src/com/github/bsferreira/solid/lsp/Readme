@@ -1,0 +1,2 @@
+Very nice article overall, clear, consise, complete but a bit confused instead of correct (only) at one point i.e LSP.
+Doesn't this principle tell "SubTypes should be capable enough to replace the parent class?" Your code example is confusing here.
